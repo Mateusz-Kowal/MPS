@@ -14,3 +14,4 @@ N - number of parked cars from the beginning of the parking lot up to x
 
 There is a .ipynb file with all the code to run.
 Apart from that you can also check the full documentation and a poster (both in polish) with results and figures.
+
