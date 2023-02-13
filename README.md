@@ -7,8 +7,8 @@ The goal of the project was to explore the problem of a parallel parking lot, wh
 lim(x→∞) ⁡N(x)/x
 
 where:
-x - distance from the beginning of the parking lot
-N - number of parked cars from the beginning of the parking lot up to x
+x - distance from the beginning of the parking lot  
+N - number of parked cars from the beginning of the parking lot up to x  
 
 ## Content
 
